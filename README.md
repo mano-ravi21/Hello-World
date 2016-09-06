@@ -1,2 +1,4 @@
 # Hello-World
-Just initial repository creation
+Hi All,
+
+I'm just creating new file here.
